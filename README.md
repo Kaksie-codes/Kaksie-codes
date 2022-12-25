@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kaksie-codes
+- 👋 Hi, I’m Nsikak Akpan, but you can also call me Kaka or Kaksie.
 - 👀 I’m interested in Frontend Web Development
 - 🌱 I’m currently learning Javascript and React
 - 💞️ I’m looking to collaborate on projects
