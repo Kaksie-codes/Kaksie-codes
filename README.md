@@ -1,11 +1,11 @@
 - 👋 Hi, I’m Nsikak Akpan, but you can also call me Kaka or Kaksie.
 - 👀 I’m interested in Frontend Web Development
 - 🌱 I’m currently learning Node Js
-- 💞️ I’m looking forward to collaborate on projects
+- 💞️ I'm eagerly anticipating collaboration on projects and securing a frontend role.
 
 
 📫 How to reach me
-- Whatsapp:+234(0)7014486708
+- Whatsapp:+234(0)7019972804
 - LinkedIn:https://www.linkedin.com/in/nsikak-akpan/
 - Twitter:https://twitter.com/kaksie_codes
 - Email:builtbykaksy@gmail.com
