@@ -9,7 +9,7 @@
 - LinkedIn:https://www.linkedin.com/in/nsikak-akpan/
 - Twitter:https://twitter.com/kaksie_codes
 - Email:builtbykaksy@gmail.com
-- portfolio: https://nsikak.netlify.app
+- portfolio: https://nsikak.netlify.app](https://nsikak01.netlify.app/
 
 <!---
 Kaksie-codes/Kaksie-codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
