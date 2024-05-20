@@ -7,7 +7,7 @@
 📫 How to reach me
 - Whatsapp:+234(0)7019972804
 - LinkedIn:https://www.linkedin.com/in/nsikak-akpan/
-- Twitter:https://twitter.com/kaksie_codes
+- X: https://x.com/Kaksie_codes
 - Email:builtbykaksy@gmail.com
 - portfolio: https://nsikak01.netlify.app/
 
