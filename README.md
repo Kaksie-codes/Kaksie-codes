@@ -1,13 +1,13 @@
-- 👋 Hi, I’m Nsikak Akpan, but you can also call me Kaka or Kaksie.
-- 👀 I’m interested in Frontend Web Development
-- 🌱 I’m currently learning Node Js
+- 👋 Hi, I’m Nsikak Akpan, but you can also call me See Kak or Kaksie.
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Solidity and GoLang
 - 💞️ I'm eagerly anticipating collaboration on projects and securing a frontend role.
 
 
 📫 How to reach me
 - Whatsapp:+234(0)7019972804
 - LinkedIn:https://www.linkedin.com/in/nsikak-akpan/
-- X: https://x.com/Kaksie_codes
+- X: https://x.com/_see_kak
 - Email:builtbykaksy@gmail.com
 - portfolio: https://nsikak01.netlify.app/
 
