@@ -27,7 +27,7 @@
 📫 How to reach me
 - Whatsapp:+234(0)7019972804
 - LinkedIn:https://www.linkedin.com/in/nsikak-akpan/
-- X: https://x.com/_see_kak
+- X: https://x.com/0xSee_kak
 - Email:nsikakakpan007@gmail.com
 - portfolio: https://nsikak01.netlify.app/
 <!---
